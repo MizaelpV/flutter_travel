@@ -6,7 +6,7 @@ class Cover extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(
-      children: const [Text('Helloo')],
+      children: const [Text('Hello')],
     );
   }
 }
